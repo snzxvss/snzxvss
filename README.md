@@ -12,8 +12,8 @@
 ## 🛠 Tecnologías y Herramientas
 
 - **Lenguajes de Programación**: Python, JavaScript, C#
-- **Frontend**: HTML, CSS, React, Vue.js
-- **Backend**: Node.js, Django, Flask
+- **Frontend**: HTML, CSS, SCSS, Tailwind, React, Vue.js, Angular, NextJS
+- **Backend**: Node.js, NestJS, Django, Flask
 - **Bases de Datos**: MySQL, PostgreSQL, MongoDB, SQL Server
 - **Herramientas**: Git, Docker, VSCode, Jupyter Notebook
 
@@ -24,4 +24,3 @@
 ## 📫 Cómo contactarme
 
 - **Correo Electrónico**: vosssanz@gmail.com
-- **LinkedIn**: [Tu Perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/camilo-sanz-503922233/))
