@@ -5,7 +5,6 @@
 ## 🚀 Sobre mí
 
 - 💻 Me encanta programar en **Python**, **JavaScript** y **Java**.
-- 📚 Actualmente estoy aprendiendo **Machine Learning** y **Desarrollo Web**.
 - 🌱 Siempre estoy buscando nuevas tecnologías y herramientas para mejorar mis habilidades.
 - 🎯 Objetivo: Contribuir a proyectos de código abierto y seguir creciendo como desarrollador.
 
